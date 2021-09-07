@@ -2,7 +2,7 @@
 
 This is a basic foundation for developing a 2D Game Engine using the SFML library. Changes were tracked locally but then uploaded to Github.
 <br>
-This was uploaded as a CodeBlocks project because of its SFML support
+This was uploaded as a CodeBlocks project because of its support for the SFML library
 
 # Introduction
 Though a basic engine, it contains many simple, yet crucial, behaviors that all game engines have. The main file goes through three loops:
